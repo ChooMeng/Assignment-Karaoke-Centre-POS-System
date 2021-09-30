@@ -1,3 +1,5 @@
+![logo (1)](https://user-images.githubusercontent.com/86212287/135383705-73410d98-74d7-47c3-939f-43aa2624b80d.png)
+
 # Daily Market - Karaoke Centre POS System
 
 Assignment: AACS3064 Computer System Architecture
