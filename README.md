@@ -1,6 +1,6 @@
 ![lkresize](https://user-images.githubusercontent.com/86212287/135401828-23232f9f-395e-46e7-906e-9887bacf424f.png)
 
-# Daily Karaoke - Karaoke Centre POS System
+# Daily Karaoke - Karaoke Centre POS System (Assembly)
 
 Assignment: AACS3064 Computer System Architecture
 
