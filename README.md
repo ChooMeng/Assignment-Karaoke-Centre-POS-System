@@ -1,4 +1,4 @@
-![lk](https://user-images.githubusercontent.com/86212287/135401678-cad51669-75de-40f7-a022-defecbc609ea.png)
+![lkresize](https://user-images.githubusercontent.com/86212287/135401828-23232f9f-395e-46e7-906e-9887bacf424f.png)
 
 # Daily Karaoke - Karaoke Centre POS System
 
