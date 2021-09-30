@@ -1,4 +1,4 @@
-![logo (1)](https://user-images.githubusercontent.com/86212287/135383705-73410d98-74d7-47c3-939f-43aa2624b80d.png)
+![logo (1)](https://user-images.githubusercontent.com/86212287/135383790-c81cda90-b289-4f3d-9aad-7f3be0955fc4.png)
 
 # Daily Market - Karaoke Centre POS System
 
