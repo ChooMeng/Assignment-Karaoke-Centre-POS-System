@@ -27,7 +27,7 @@ System Requirements:
 
 ## System Information
 
-###### Login Account (Case sensitive)
+###### **Login Account (Case sensitive)**
 
    [Username] [Password]
    
